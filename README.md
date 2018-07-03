@@ -1,3 +1,8 @@
 # Optimization Algorithms
 
-This small project focused on translating algorithms written in R to Python. The algos are then compared in terms of accuracy and speed.  
+This small project focused on translating algorithms orginially written in R to Python language. 
+
+
+# View project
+The project can be viewed under this link:
+
